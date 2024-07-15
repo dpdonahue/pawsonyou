@@ -29,7 +29,7 @@ const Boarding: React.FC = () => {
             </p>
           </div>
           <div className="col-lg-6 text-center">
-            <img className="img-fluid" src="/img/services/boarding.jpg" alt="Boarding" />
+            <img className="img-fluid" src="./img/services/boarding.jpg" alt="Boarding" />
           </div>
         </div>
       </div>

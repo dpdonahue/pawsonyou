@@ -2,7 +2,7 @@
   "name": "paws-on-you",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dpdonahue.github.io/pawsonyou",
+  "homepage": "http://pawsonyou.biz",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",

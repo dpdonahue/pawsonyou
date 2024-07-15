@@ -62,7 +62,7 @@ const Grooming: React.FC = () => {
             </p>
           </div>
           <div className="col-lg-6 text-center">
-            <img className="img-fluid" src="/img/services/grooming.jpg" alt="Grooming" />
+            <img className="img-fluid" src="./img/services/grooming.jpg" alt="Grooming" />
           </div>
         </div>
       </div>

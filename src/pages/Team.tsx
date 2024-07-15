@@ -125,7 +125,7 @@ const Team: React.FC = () => {
                 <div className="row">
                   {t.members.map((m, j) =>
                     <div key={j} className={`col-lg-${t.members.length === 1 ? '12' : t.members.length === 2 ? '6' : t.members.length === 3 ? '4' : t.members.length === 4 ? '3' : t.members.length === 6 ? '2' : '3'} text-center pb-5`}>
-                      <img className="img-fluid rounded-circle" src={`/img/team/${m.img}`} alt={m.name} /><br />
+                      <img className="img-fluid rounded-circle" src={`./img/team/${m.img}`} alt={m.name} /><br />
                       <p className="text-muted">{m.name}</p>
                       <em className="text-muted">{m.description}</em>
                     </div>

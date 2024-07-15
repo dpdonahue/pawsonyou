@@ -34,7 +34,7 @@ const PoolDays: React.FC = () => {
             </p>
           </div>
           <div className="col-lg-6 text-center">
-            <img className="img-fluid" src="/img/services/pooldays.jpg" alt="Pool" />
+            <img className="img-fluid" src="./img/services/pooldays.jpg" alt="Pool" />
           </div>
         </div>
       </div>

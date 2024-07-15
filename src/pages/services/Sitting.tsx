@@ -36,7 +36,7 @@ const Sitting: React.FC = () => {
             </p>
           </div>
           <div className="col-lg-6 text-center">
-            <img className="img-fluid" src="/img/services/sitting.jpg" alt="Pet Sitting" />
+            <img className="img-fluid" src="./img/services/sitting.jpg" alt="Pet Sitting" />
           </div>
         </div>
       </div>

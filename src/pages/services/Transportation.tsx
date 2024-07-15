@@ -35,7 +35,7 @@ const Transportation: React.FC = () => {
             </p>
           </div>
           <div className="col-lg-6 text-center">
-            <img className="img-fluid" src="/img/services/transportation.jpg" alt="Pet Transportation" />
+            <img className="img-fluid" src="./img/services/transportation.jpg" alt="Pet Transportation" />
           </div>
         </div>
       </div>

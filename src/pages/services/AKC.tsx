@@ -48,7 +48,7 @@ const Training: React.FC = () => {
             </p>
             <p className="text-center">
               <a href="https://www.animalbehaviorcollege.com" target="_blank" rel="noreferrer">
-                <img className="img-fluid" src="/img/ABCDTTrainerOval.png" width="300" height="190" alt="Animal Behavior College" />
+                <img className="img-fluid" src="../img/ABCDTTrainerOval.png" width="300" height="190" alt="Animal Behavior College" />
               </a>
             </p>
             <p className="text-muted">
@@ -63,7 +63,7 @@ const Training: React.FC = () => {
             </p>
           </div>
           <div className="col-lg-6 text-center">
-            <img className="img-fluid" src="/img/services/goodcitizen.jpg" alt="AKC Canine Good Citizen" />
+            <img className="img-fluid" src="./img/services/goodcitizen.jpg" alt="AKC Canine Good Citizen" />
           </div>
         </div>
       </div>

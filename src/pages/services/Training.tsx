@@ -38,7 +38,7 @@ const Training: React.FC = () => {
             </p>
           </div>
           <div className="col-lg-6 text-center">
-            <img className="img-fluid" src="/img/services/training.jpg" alt="Training" />
+            <img className="img-fluid" src="./img/services/training.jpg" alt="Training" />
           </div>
         </div>
       </div>

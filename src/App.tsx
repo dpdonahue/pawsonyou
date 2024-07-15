@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, BrowserRouter, Routes } from 'react-router-dom';
+import { Route, HashRouter, Routes } from 'react-router-dom';
 import Layout from './layout/Layout';
 import Home from './pages/Home';
 import Contact from './pages/Contact';
@@ -19,7 +19,7 @@ import 'react-toastify/dist/ReactToastify.css';
 const App: React.FC = () => {
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <Layout>
           <Routes>
             <Route path='/services/sitting' element={<Sitting/>} />
@@ -36,7 +36,7 @@ const App: React.FC = () => {
             <Route path='*' element={<Home/>} />
           </Routes>
         </Layout>
-      </BrowserRouter>
+      </HashRouter>
       <ToastContainer autoClose={6000} />
     </>
   );

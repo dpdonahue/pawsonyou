@@ -30,7 +30,7 @@ const Walking: React.FC = () => {
             </p>
           </div>
           <div className="col-lg-6 text-center">
-            <img className="img-fluid" src="/img/services/walking.jpg" alt="Walking" />
+            <img className="img-fluid" src="./img/services/walking.jpg" alt="Walking" />
           </div>
         </div>
       </div>
