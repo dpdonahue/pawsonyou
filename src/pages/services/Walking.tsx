@@ -18,9 +18,6 @@ const Walking: React.FC = () => {
             <p className="text-center">
               <Link className="btn btn-primary" to={'/contact'}>Contact us to set up an appointment!</Link>
             </p>
-            <p className="text-muted">
-              Service area for walking includes: Attleboro, Pawtucket, and nearby towns
-            </p>
             <ul className="text-muted">
               <li>30 Minutes of Walking - $18</li>
               <li>60 Minutes of Walking - $36</li>

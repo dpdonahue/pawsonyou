@@ -23,9 +23,6 @@ const Training: React.FC = () => {
                 <img className="img-fluid" src="/img/ABCDTTrainerOval.png" width="300" height="190" alt="Animal Behavior College" />
               </a>
             </p>
-            <p className="text-muted">
-              Service area for training includes: Attleboro, Foxboro, Taunton, Providence, and nearby towns
-            </p>
             <ul className="text-muted">
               <li>Initial 30-minute Consultation - $35</li>
               <li>

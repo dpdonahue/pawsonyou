@@ -51,9 +51,6 @@ const Training: React.FC = () => {
                 <img className="img-fluid" src="../img/ABCDTTrainerOval.png" width="300" height="190" alt="Animal Behavior College" />
               </a>
             </p>
-            <p className="text-muted">
-              Service area for training includes: Attleboro, Foxboro, Taunton, Providence, and nearby towns
-            </p>
             <ul className="text-muted">
               <li>6 Weeks - $260</li>
               <li>8 Weeks - $320</li>

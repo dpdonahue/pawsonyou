@@ -21,12 +21,6 @@ const Sitting: React.FC = () => {
             <p className="text-center">
               <Link className="btn btn-primary" to={'/contact'}>Contact us to set up an appointment!</Link>
             </p>
-            <p className="text-muted">
-              Service area for hourly sitting: Attleboro, Foxboro, Taunton, Providence, and nearby towns
-            </p>
-            <p className="text-muted">
-              Service area for overnight sitting: Bristol, Norfolk, and Plymouth Counties and RI
-            </p>
             <ul className="text-muted">
               <li>Overnight Pet Sitting - $130/night</li>
               <li>$10 each for additional dogs</li>
